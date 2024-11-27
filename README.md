@@ -1,4 +1,4 @@
-<p>Site Cafeteria</p>
+<p>PROJETO RANDOM - SORTEADOR DE NÚMEROS</p>
 <br>
 <br>
 <h1>Esse foi mais um belo projeto de sorteador de números aleatórios aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a></h1>
