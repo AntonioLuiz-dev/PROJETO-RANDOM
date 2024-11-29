@@ -8,11 +8,11 @@ document.body.appendChild(resultado);  // Adiciona o novo elemento ao body
 // Função para sortear um número
 botaoSortear.addEventListener("click", function() {
     // Obtém os valores dos campos de entrada
-    const min = parseInt(inputMin.value);
-    const max = parseInt(inputMax.value);
+    const min = Math.ceil((inputMin.value));
+    const max = Math.floor((inputMax.value));
 
     // Verifica se os valores são válidos
-    if (isNaN(min) || isNaN(max) || min >= max) {
+    if ( min >= max) {
         alert("Por favor, insira valores válidos para o intervalo!");
         return;
     }
