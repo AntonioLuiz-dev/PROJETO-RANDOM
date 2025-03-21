@@ -1,7 +1,7 @@
 <h1>PROJETO RANDOM - SORTEADOR DE NÚMEROS</h1>
 <br>
 <br>
-<h2>Esse foi mais um belo projeto de sorteador de números aleatórios aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a></h2>
+<h2>Esse foi mais um belo projeto de sorteador de números aleatórios aplicando todas as tecnlogias: HTML, CSS e JavaScript que aprendi no <a href="rodolfimori.com.br/devclub">DevClub</a>, aprendi que random() retorna um número pseudo-aleatório no intervalo [0, 1[ , ou seja, de 0 (inclusivo) até, mas não incluindo, 1 (exclusivo), que depois você pode dimensionar para um intervalo desejado.</h2>
 
 <h3>Tecnologias utilizadas</h3>
 <br>
