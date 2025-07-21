@@ -22,7 +22,7 @@ botaoSortear.addEventListener("click", function() {
 
     // Exibe o número sorteado diretamente na página
     resultado.textContent = `Número sorteado: ${numeroSorteado}`;
-    resultado.style.fontSize = "36px";  // Ajusta o tamanho da fonte
-    resultado.style.color = "#AEC346";  // Ajusta a cor do texto
+    resultado.style.fontSize = "40px";  // Ajusta o tamanho da fonte
+    resultado.style.color = "#ffffffff";  // Ajusta a cor do texto
     resultado.style.marginTop = "20px";  // Adiciona um espaço acima
 });
